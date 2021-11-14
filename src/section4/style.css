@@ -1,0 +1,19 @@
+.body1 {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+.fond {
+    width: 75%;
+    display: contents;
+}
+.quote {
+    position: absolute;
+    width: 40%;
+    left: 7%;
+    top: 20%;
+}
+.font{
+    font-size: 24px;
+}

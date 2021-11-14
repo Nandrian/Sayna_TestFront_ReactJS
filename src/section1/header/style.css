@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "CircularStd";
+    src: url("/src/asset/fonts/CircularStd-Book.otf");
+}
+
+/* .box_container {
+    background-color: brown;
+    display: flex;
+} */
+
+.content {
+    display: flex;
+    padding: 0 13rem;
+    align-items: center;
+    height: 90vh;
+    /* background-color: brown; */
+    justify-content: space-between;
+}
+
+.image{
+    position: relative;
+    top: -150px;
+    right: -208px;
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+}
+.title {
+    margin-top: -170px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    width: 450px;
+    /* background-color: burlywood; */
+}
+
+h1 {
+    margin-bottom: 2rem;
+    margin-top: .5rem;
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+.desc {
+    text-align: center;
+    position: absolute;
+    width: 75%;
+    bottom: 100px;
+}
+
+h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: gray;
+}

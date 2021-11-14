@@ -1,0 +1,36 @@
+.fs-1{
+    width: 75px;
+    margin: auto;
+    padding: 1px;
+    font-size: 50px;
+    color: #6f77e9;
+    background-color: #d0d1f7;
+    border-radius: 50%;
+    height: 75px
+}
+.fs-2{
+    width: 75px;
+    margin: auto;
+    padding: 1px;
+    font-size: 50px;
+    color: #e17ff6;
+    background-color: #efd3ea;
+    border-radius: 50%;
+    height: 75px
+}
+.fs-3{
+    width: 75px;
+    margin: auto;
+    padding: 1px;
+    font-size: 50px;
+    color: #95e96f;
+    background-color: #e6fee6;
+    border-radius: 50%;
+    height: 75px
+}
+.top {
+    margin-top: 75px;
+}
+.position {
+    position: relative;
+}

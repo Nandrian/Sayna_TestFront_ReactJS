@@ -1,0 +1,14 @@
+
+.box-accordion{
+    width: 75%;
+    justify-content: flex-end;
+    display: flex;
+}
+.accordion{
+    width: 400px;
+}
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}

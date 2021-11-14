@@ -1,0 +1,31 @@
+#bg{
+    position: relative;
+}
+.flex {
+    display: flex;
+}
+.flex.parent {
+    width: 60%;
+    margin:50px auto;
+    justify-content: center;
+}
+.flex.child {
+    box-shadow: 4px 4px 20px gainsboro;
+    padding: 22px 35px;
+    border-radius: 10px;
+    background-color: white;
+}
+.img {
+    height: 60px;
+    transform: translateX(26px);
+    margin-top: 26px;
+}
+.button{
+    height: 34px;
+    margin-top: 5%;
+    background-color: #5fd65f;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-left: 45px;
+}

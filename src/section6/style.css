@@ -1,0 +1,92 @@
+.bg {
+    background-image: url('../asset/bg-image4.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.new_card{
+    width: 264px;
+    position: relative;
+    position: relative;
+    padding: 25px;
+    box-shadow: 4px 4px 20px gainsboro;
+    background-color: white;
+    height: max-content;
+}
+.fs{
+    width: max-content;
+    margin: auto;
+    padding: 8px 27px;
+    background-color: #c7f5c3;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #24ee43;
+}
+.fs1{
+    width: max-content;
+    margin: auto;
+    padding: 16px 27px;
+    background-color: #f5a973;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+}
+.fs2{
+    width: max-content;
+    margin: auto;
+    padding: 16px 27px;
+    background-color: #d6dcf5;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #6d7dbb;
+}
+.imageCheck {
+    transform: translateY(6px);
+    margin-right: 21px;
+    padding: 8px;
+    background-color: #92bf92;
+    border-radius: 50%;
+}
+.para{
+    display: flex;
+    justify-content: center;
+    color: #24ee43;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.dollars{
+    position: absolute;
+    top: 28%;
+    left: 41%;
+    color: #24ee43;
+    font-size: 21px;
+}
+.dollarsPro{
+    position: absolute;
+    top: 25%;
+    left: 38%;
+    color: #fcfcfc;
+    font-size: 21px;
+}
+.dollarsPrem{
+    position: absolute;
+    top: 28%;
+    left: 38%;
+    color: #6d7dbb;
+    font-size: 21px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.btn-1{
+    background-color: #1ea069;
+    color: white;
+    padding: 10px 52px;
+    border-radius: 7px;
+    border: none;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

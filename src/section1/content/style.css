@@ -1,0 +1,48 @@
+.contained {
+    height: 90vh;
+    display: flex;
+}
+
+.left-content {    
+    position: absolute;
+}
+
+/* .family-pict {
+    margin-top: 120px;
+} */
+
+.background {
+    background-image: url('../../asset/health-family-1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* display: flex; */
+    justify-content: flex-end;
+}
+
+.content01 {
+    /* background-color: lightcoral; */
+    margin-left: 45%;
+    padding-right: 100px;
+}
+.background .content01 .flex {
+    display: flex;
+    padding: 25px 0 20px 0;
+}
+.background .content01 .flex .imageCheck {
+    transform: translateY(6px);
+    margin-right: 21px;
+    padding: 8px;
+    background-color: #92bf92;
+    border-radius: 50%;
+}
+.marginNone {
+    margin: 0
+}
+.border {
+    border-top: 2px solid #f2f1f1;
+    border-bottom: 2px solid #f2f1f1;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
